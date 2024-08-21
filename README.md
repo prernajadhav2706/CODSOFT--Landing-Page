@@ -5,7 +5,7 @@ I'm a Web Developer...
 
 
  🔗 Links
-[![landing page](https://img.shields.io/badge/landingpage-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![landing page](https://img.shields.io/badge/landingpage-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/prernajadhav2706/CODSOFT--Landing-Page)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerna-jadhav-903aa52aa)
 [![GitHub](https://img.shields.io/badge/GitHub-1DA1F2?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ganesh1074)
 
