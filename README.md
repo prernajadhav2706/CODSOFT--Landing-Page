@@ -20,9 +20,7 @@ In this project, I created a Responsive Landing Page by using Html and CSS.
 - [@prernajadhav2706](https://www.github.com/prernajadhav2706)
 
 
- Documentation
 
-[Documentation](https://github.com/prernajadhav2706/landingpage)
 
 
  Lessons:
